@@ -2,7 +2,7 @@
 
 ---
 
-I am a programmer specializing in C# with interests in becoming a full-stack developer and cybersecurity.
+I am a programmer, specializing in C#, with interest in becoming a full-stack developer, eventually shifting into cybersecurity.
 Check out my **toolbox** below for a fuller picture of my skillset!
 
 ---
@@ -10,7 +10,7 @@ Check out my **toolbox** below for a fuller picture of my skillset!
 🧰Toolbox🧰
 
 
-
+---
 <!--
 **RudolfKay/RudolfKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
