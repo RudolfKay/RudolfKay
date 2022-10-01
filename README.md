@@ -6,6 +6,8 @@
 
 ⚡ I am a back-end Software Developer, focused on C#, with interest in becoming a full-stack developer.
 
+⚡ Learning new things every day!
+
 ⚡ Currently I am working on integrating database structures for a Web API.
 
 ⚡ Check out my **toolbox** below for a fuller picture of my skillset!
