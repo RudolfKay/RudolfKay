@@ -23,6 +23,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite Logo" width="50" height="50">
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfKay&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![Rudolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudolfKay&show_icons=true&theme=onedark)
 
 ---
 <!--
