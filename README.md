@@ -2,8 +2,11 @@
 
 ---
 
-I am a programmer, specializing in C#, with interest in becoming a full-stack developer, eventually shifting into cybersecurity.
-Check out my **toolbox** below for a fuller picture of my skillset!
+⚡ I am a back-end Software Developer, focused on C#, with interest in becoming a full-stack developer.
+
+⚡ Currently I am working on integrating database structures for a Web API.
+
+⚡ Check out my **toolbox** below for a fuller picture of my skillset!
 
 ---
 
