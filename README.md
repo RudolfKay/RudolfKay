@@ -1,4 +1,4 @@
-### Hey! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">  My name is Rudolf Karpuska.
+### Hey! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">  My name is Rudolf. Welcome to my GitHub page!
 
 ---
 
