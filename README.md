@@ -8,7 +8,7 @@
 
 ⚡ Learning new things every day!
 
-⚡ Currently I am working on integrating database structures for a Web API.
+⚡ Currently I am working on my Azure-Logger project, as well as studying the capabilities of Azure.
 
 ⚡ Check out my **toolbox** below for a fuller picture of my skillset!
 
