@@ -8,7 +8,7 @@
 
 ⚡ Learning new things every day!
 
-⚡ Currently I am working on my Azure-Logger project, as well as studying the capabilities of Azure.
+⚡ Currently I am working with and studying C# Functional Programming.
 
 ⚡ Check out my **toolbox** below for a fuller picture of my skillset!
 
