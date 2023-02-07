@@ -20,7 +20,7 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfKay&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Rudolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudolfKay&show_icons=true&theme=onedark)]
+![Rudolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudolfKay&show_icons=true&theme=onedark)
 
 <!--
 **RudolfKay/RudolfKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
