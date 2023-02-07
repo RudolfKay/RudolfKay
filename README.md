@@ -19,8 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NETCore Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"> <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite Logo" width="50" height="50">
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfKay)](https://github.com/anuraghazra/github-readme-stats)
- [![Rudolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudolfKay&show_icons=true&theme=onedark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfKay&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rudolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudolfKay&show_icons=true&theme=onedark)]
 
 <!--
 **RudolfKay/RudolfKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
