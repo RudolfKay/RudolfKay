@@ -4,13 +4,15 @@
 
 ---
 
-⚡ I am a back-end Software Developer, focused on C#, with interest in becoming a full-stack developer.
+⚡ I am a back-end Software Developer, focused on C# & .NET, with great interest in becoming a full-stack developer.
 
-⚡ Learning new things every day, keeping my code clean!
+⚡ Learning new things every day and keeping my code clean!
 
-⚡ Currently I am coding with, and studying, C# Functional Programming approaches and methodology.
+⚡ Currently I do most of my coding in C#, but am also learning the basics of PHP, as well as exploring C & C++.
 
 ⚡ Check out my **toolbox** below for a fuller picture of my skillset!
+
+⚡ Working on a mini-project.
 
 ---
 
