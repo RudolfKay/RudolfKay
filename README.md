@@ -10,9 +10,9 @@
 
 ⚡ Currently I do most of my coding in C#, but am also learning the basics of PHP, as well as exploring C & C++.
 
-⚡ Check out my **toolbox** below for a fuller picture of my skillset!
-
 ⚡ Working on a mini-project.
+
+⚡ Check out my **toolbox** below for a fuller picture of my skillset!
 
 ---
 
