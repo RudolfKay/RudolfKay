@@ -10,7 +10,7 @@
 
 ⚡ Currently I do most of my coding in C#, but am also learning React, as well as exploring basics C & C++.
 
-⚡ Working on a mini-project (https://github.com/RudolfKay/Real-Time-Chat).
+⚡ Working on a mini-project ([https://github.com/RudolfKay/Real-Time-Chat](https://github.com/RudolfKay/Giga-Chat)).
 
 ⚡ Check out my **toolbox** below for a fuller picture of my skillset!
 
