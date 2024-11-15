@@ -10,8 +10,6 @@
 
 ⚡ Currently I do most of my coding in C#, but am also learning React, as well as exploring C & C++, JavaScript & TypeScript.
 
-⚡ Working on [this project](https://github.com/RudolfKay/Giga-Chat) currently.
-
 ⚡ Check out my **toolbox** below for a fuller picture of my skillset!
 
 ---
