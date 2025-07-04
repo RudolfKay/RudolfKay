@@ -61,7 +61,8 @@
 - ⚙️ **Microservices**, Kubernetes (AKS), and real-time updates with SignalR (planned)
 - 🤖 Developed using **Claude**, **Cursor**, and other AI tools for architecture guidance and prototyping
 
-📅 Self-paced learning project with a 12-week roadmap 
+📅 Self-paced learning project with a 12-week roadmap
+
 🧠 Focused on DevOps, distributed systems, and AI/code intelligence
 
 *(Repo and demo coming soon!)*
