@@ -1,22 +1,32 @@
-### Hey! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">  My name is Rudolf.
+### Hey! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">  I’m Rudolf.
 
-✨ Welcome to my GitHub page! ✨
-
----
-
-⚡ I am a back-end Software Developer, focused on C# & .NET, with great interest in becoming a full-stack developer.
-
-⚡ Learning new things every day and keeping my code clean!
-
-⚡ Currently I do most of my coding in C#, but am also learning React, as well as exploring C & C++, JavaScript & TypeScript.
-
-⚡ Check out my **toolbox** below for a fuller picture of my skillset!
+✨ Welcome to my GitHub! ✨
 
 ---
 
-🧰 Toolbox 🧰
+⚡ **2+ years** building **C#/.NET** back‑ends in Agile & SAFe teams  
+⚡ Deep experience with **REST & OpenAPI** (Swagger) and event‑driven architectures  
+⚡ Strong foundation in **OOP**, **clean code**, **unit testing** (xUnit, NUnit, MSTest)  
+⚡ Proficient with **Entity Framework Core**, **MartenDB**, **PostgreSQL**  
+⚡ DevOps & CI/CD: **Azure DevOps**, **GitHub Actions**, **SonarQube**, **Docker** (Rancher Desktop)  
+⚡ Logging & debugging with **Serilog**, **Seq**, **Postman**, **VS Debugger**  
+⚡ Building cloud‑ready services—learning **Azure**, **AWS**, **GCP** through personal projects  
+⚡ Currently containerizing APIs, exploring **microservices** & **Kubernetes**  
+⚡ Proud user of AI assistants (Copilot, Claude, Cursor, v0) to boost productivity  
+⚡ Always iterating—my latest is **Macro‑Tracker NextJS App** (TS/React/Prisma)  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="Microsoft .NET" width="50" height="50"> <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" alt="SQLite Logo" width="50" height="50">
+---
+
+🧰 **Toolbox**
+
+**Back‑end:** C#, .NET 6–8, ASP.NET Core, EF Core, MartenDB  
+**APIs:** REST, OpenAPI, event‑driven services  
+**Databases:** PostgreSQL, SQLite  
+**DevOps:** GitHub Actions, Azure DevOps, Docker, SonarQube  
+**Testing:** xUnit, NUnit, MSTest, Moq, FluentAssertions  
+**Logging:** Serilog, Seq, Postman Console  
+**Cloud & Infra:** Azure (App Services, Functions), AWS & GCP exploration  
+**AI Tools:** GitHub Copilot, Claude, Cursor, v0, ChatGPT  
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfKay&theme=onedark)
