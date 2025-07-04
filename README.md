@@ -1,22 +1,70 @@
-### Hey! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">  My name is Rudolf.
+### Hey! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">  I’m Rudolf.
 
-✨ Welcome to my GitHub page! ✨
+✨ Welcome to my GitHub! ✨
+
+## 🚀 About Me
+
+⚡ **2+ years** building **C#/.NET** back‑ends in Agile & SAFe teams  
+⚡ Deep experience with **REST & OpenAPI** (Swagger) and event‑driven architectures  
+⚡ Strong foundation in **OOP**, **clean code**, **unit testing** (xUnit, NUnit, MSTest)  
+⚡ Proficient with **Entity Framework Core**, **MartenDB**, **PostgreSQL**  
+⚡ DevOps & CI/CD: **Azure DevOps**, **GitHub Actions**, **SonarQube**, **Docker** (Rancher Desktop)  
+⚡ Logging & debugging with **Serilog**, **Seq**, **Postman**, **VS Debugger**  
+⚡ Building cloud‑ready services — learning **Azure**, **AWS**, **GCP** through personal projects  
+⚡ Currently containerizing APIs, exploring **microservices** & **Kubernetes**  
+⚡ Proud user of AI assistants (Copilot, Claude, Cursor, v0) to boost productivity
+
+## 🧰 Toolbox
+
+| ⚙️ Back‑end           | 🗄️ Databases       | 🚀 DevOps & CI/CD         | 🧪 Testing & QA      | 🤖 AI Tools                  | 
+|-----------------------|---------------------|---------------------------|-----------------------|------------------------------|
+| C#, .NET 6–8          | PostgreSQL          | GitHub Actions            | xUnit                 | Copilot                      |
+| ASP.NET Core          | SQLite              | Docker (Rancher Desktop)  | NUnit                 | Cursor                       |
+| EF Core               | MSSQL               | SonarQube                 | MSTest                | v0                           |
+|                       | MartenDB (PG-based) | Azure Dev-Ops (Dev side)  | Moq & FluentAssertions| ChatGPT                      |
 
 ---
 
-⚡ I am a back-end Software Developer, focused on C# & .NET, with great interest in becoming a full-stack developer.
+## 📂 Featured Projects
 
-⚡ Learning new things every day and keeping my code clean!
+### 🔗 MacroTrack NextJS App
 
-⚡ Currently I do most of my coding in C#, but am also learning React, as well as exploring C & C++, JavaScript & TypeScript.
+> A modern, full-stack macro-tracking app powered by TypeScript, Prisma, and PostgreSQL.
 
-⚡ Check out my **toolbox** below for a fuller picture of my skillset!
+- 🔐 **User Auth** via NextAuth.js (with protected API routes)
+- 🍱 **Food Search** using Open Food Facts API (auto-fills nutrition data)
+- 🧑‍💼 **Admin Dashboard** to manage users and food entries
+- 👤 **User Profiles** with photo upload & macro goal customization
+- 📈 **Dashboard** for tracking daily macros (calories, protein, carbs, fat)
+- 🎨 **Responsive UI** built with React, TailwindCSS, and shadcn/ui
+- ⚙️ **CI/CD** pipeline with GitHub Actions & Prisma seed scripts
+- 🤖 Built with assistance from **v0.dev** and **Cursor** AI tools
+
+📁[View Repo](https://github.com/RudolfKay/Macro-Tracker-NextJS-App)
+
+![CI](https://github.com/RudolfKay/Macro-Tracker-NextJS-App/actions/workflows/ci-workflow.yml/badge.svg)
+
+*(Deployed demo coming to Vercel soon!)*
 
 ---
 
-🧰 Toolbox 🧰
+### 🛠️ Secret Next Project (WIP)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="Microsoft .NET" width="50" height="50"> <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" alt="SQLite Logo" width="50" height="50">
+> An AI-powered GitHub code analysis dashboard built with .NET 8, React, and OpenAI integration.
+
+- 📦 **Repo Scanner** using GitHub API + Octokit.NET
+- 🧠 **AI‑Assisted Code Insights** via OpenAI for quality scoring & suggestions
+- 📊 **Dashboard** showing metrics like language breakdown, LOC, complexity
+- 🔐 **JWT Authentication** & optional Azure AD B2C integration
+- ☁️ **Cloud-ready**: Dockerized, PostgreSQL, Redis, Azure support
+- 🔁 **CI/CD** via GitHub Actions with planned test/deploy automation
+- ⚙️ **Microservices**, Kubernetes (AKS), and real-time updates with SignalR (planned)
+- 🤖 Developed using **Claude**, **Cursor**, and other AI tools for architecture guidance and prototyping
+
+📅 Self-paced learning project with a 12-week roadmap 
+🧠 Focused on DevOps, distributed systems, and AI/code intelligence
+
+*(Repo and demo coming soon!)*
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfKay&theme=onedark)
