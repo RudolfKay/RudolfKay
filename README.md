@@ -45,7 +45,7 @@
 ![CI](https://github.com/RudolfKay/Macro-Tracker-NextJS-App/actions/workflows/ci-workflow.yml/badge.svg)
 ![CD](https://github.com/RudolfKay/Macro-Tracker-NextJS-App/actions/workflows/cd-workflow.yml/badge.svg)
 
-*(Deployed demo coming to Vercel soon!)*
+🚀 Live Demo on Vercel: [MacroTrack](https://macrotrack.vercel.app)
 
 ---
 
